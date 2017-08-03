@@ -10,6 +10,9 @@
 
 	<br>
 	<h1>Działam...</h1>
+	<p>
+	Wynik to: <%= request.getAttribute("wynik") %>
+	</p>
 
 </body>
 </html>

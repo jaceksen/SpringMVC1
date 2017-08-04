@@ -12,6 +12,7 @@
 	<h1>Działam...</h1>
 	<p>
 	Wynik to: <%= request.getAttribute("wynik") %>
+	Wynik to: ${wynik}
 	</p>
 
 </body>
